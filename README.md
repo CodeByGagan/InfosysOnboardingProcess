@@ -1,11 +1,3 @@
-Here's a README template for Infosys Systems Engineer role onboarding on GitHub:
-
----
-All thanks to Prajjwal Tripathi
----
-
----
-
 # Infosys Systems Engineer Onboarding Guide
 
 Welcome to Infosys! This guide outlines the essential documents and steps needed for a smooth onboarding experience.
