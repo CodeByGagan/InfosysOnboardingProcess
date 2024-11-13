@@ -67,30 +67,30 @@ If the CGPA option is not clickable on the Launchpad, input your details in the 
 - A **joining confirmation email** will be sent **4-5 days before** your joining date.
 - When you arrive on campus, there will be an induction session where you'll receive guidance on filling out the BOPT form. For now, there’s no need to fill it out.
 
-### Things to be remember while up,oading on launchpad
+### Things to be remember while uploading on launchpad
 - Upload all semester/year wise marksheet not only consolidated marksheet.
 - Upload clear images.
 - Sign on each pages of OL and annexure before uploading and do not forget to leave anyfield empty.
 - Upload in time.
 
-### Check in day Documents ** Documents to carry one set **
-1.Signed OL/OL
-2.Govt ID(Aadar)
-3.Entry pass
-4.joining confirmation
-5.Onboard pass (from Launchpad)
-6.Accomdation mail 
+### Check in day Documents (Documents to carry one set)
+- 1.Signed OL/OL
+- 2.Govt ID(Aadar)
+- 3.Entry pass
+- 4.joining confirmation
+- 5.Onboard pass (from Launchpad)
+- 6.Accomdation mail 
 
-### Documents on DOJ **documents to carry 2 sets**
-1.All educational(ssc,inter,degree/btech, mca/mtech) documents 
-2.Aadar
-3.Pan
-4.Passport 
-5.Nsr
-6.Medical certificate 
-7.Medical reports 
-8.Nats bopt forms which is mentioned in mail yesterday (eligible for btech only)
-9.Relieving or experience letter (eligible for working experience person)
-10.4 Photographs & 1 soft copy(with gray background)
+### Documents on DOJ (documents to carry 2 sets)
+- 1.All educational(ssc,inter,degree/btech, mca/mtech) documents 
+- 2.Aadar
+- 3.Pan
+- 4.Passport 
+- 5.Nsr
+- 6.Medical certificate 
+- 7.Medical reports 
+- 8.Nats bopt forms which is mentioned in mail yesterday (eligible for btech only)
+- 9.Relieving or experience letter (eligible for working experience person)
+- 10.4 Photographs & 1 soft copy(with gray background)
 
 ---
